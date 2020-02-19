@@ -1,5 +1,6 @@
 # ImagedHeader
 A header control with the option to add an image to it.
+Can be used to define a section with a color and image as a visual clue of what the section is about.
 
 # Screenshot 
 ![Imaged Header Screenshot](https://github.com/ramimounla/ImagedHeader/blob/master/Screenshot/ImagedHeader.png?raw=true)
